@@ -1,2 +1,2 @@
-# cchen-artbio
+# CChen-artsite
 artist site of C. Chen
