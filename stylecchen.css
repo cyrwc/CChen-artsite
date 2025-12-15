@@ -1,0 +1,12 @@
+li{
+    list-style-type: none;
+    font-family:'Courier New';
+    color:rgb(65, 211, 180);
+}
+p {
+    font-family:'Courier New';
+    color:rgb(11, 53, 106);
+}
+body {
+    background-color: rgb(84, 92, 87);
+}
