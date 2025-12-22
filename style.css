@@ -1,5 +1,8 @@
 li{
-    margin: 10px 10px 75px;
+  margin-top: 30px;
+  margin-bottom: 20px;
+  margin-right: 55px;
+  margin-left: 55px;
     list-style-type: none;
     font-family:'Courier New';
     color:rgb(65, 211, 180);
