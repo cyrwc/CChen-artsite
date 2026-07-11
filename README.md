@@ -1,2 +1,2 @@
 # CChen-artsite
-artist site of C. Chen
+portfolio and various projects by Cyril Gaaman Chen
