@@ -4,12 +4,12 @@ li{
   margin-right: 55px;
   margin-left: 55px;
     list-style-type: none;
-    font-family:'Courier New';
+    font-family: Arial, sans-serif;
     color:rgb(65, 211, 180);
 }
 p {
     margin: 75px;
-    font-family:'sans-serif';
+    font-family: Arial, sans-serif;
     color:rgb(79, 169, 185);
 }
 body {
